@@ -15,7 +15,7 @@
 	</properties>
 	
 	<dependencies>
-		<!-- mybatis dp -->
+		<!-- mybatis dpend -->
 		<dependency>
 			<groupId>org.mybatis</groupId>
 			<artifactId>mybatis-spring</artifactId>
